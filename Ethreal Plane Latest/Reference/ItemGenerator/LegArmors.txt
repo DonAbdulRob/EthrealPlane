@@ -1,0 +1,378 @@
+Copper Leggings
+This Leggings was forged from Copper
+125
+1
+1
+1
+1
+1
+0
+Bronze Leggings
+This Leggings was forged from Bronze
+1500
+5
+16
+1
+1
+1
+1
+Iron Leggings
+This Leggings was forged from Iron
+4125
+10
+51
+2
+2
+2
+5
+Steel Leggings
+This Leggings was forged from Steel
+8000
+15
+105
+4
+4
+4
+11
+Varium Leggings
+This Leggings was forged from Varium
+13125
+20
+177
+7
+7
+7
+19
+Mlificum Leggings
+This Leggings was forged from Mlificum
+19500
+30
+269
+10
+10
+10
+29
+Adamantium Leggings
+This Leggings was forged from Adamantium
+27125
+40
+380
+15
+15
+15
+42
+Dragon Leggings
+This Leggings was forged from Dragon
+36000
+50
+509
+20
+20
+20
+56
+Beryll Leggings
+This Leggings was forged from Beryll
+46125
+60
+657
+26
+26
+26
+73
+Azmith Leggings
+This Leggings was forged from Azmith
+57500
+70
+825
+33
+33
+33
+91
+Sereptonium Leggings
+This Leggings was forged from Sereptonium
+70125
+80
+1011
+40
+40
+40
+112
+Ralifum Leggings
+This Leggings was forged from Ralifum
+84000
+90
+1216
+48
+48
+48
+135
+Magnifite Leggings
+This Leggings was forged from Magnifite
+99125
+100
+1441
+57
+57
+57
+160
+Cyritite Leggings
+This Leggings was forged from Cyritite
+115500
+120
+1684
+67
+67
+67
+187
+Genogma Leggings
+This Leggings was forged from Genogma
+133125
+140
+1946
+77
+77
+77
+216
+Hoga Leggings
+This Leggings was forged from Hoga
+152000
+160
+2227
+89
+89
+89
+247
+Telium Leggings
+This Leggings was forged from Telium
+172125
+180
+2527
+101
+101
+101
+280
+Shervagorite Leggings
+This Leggings was forged from Shervagorite
+193500
+200
+2846
+113
+113
+113
+316
+Divine Leggings
+This Leggings was forged from Divine
+216125
+225
+3184
+127
+127
+127
+353
+Infinicia Leggings
+This Leggings was forged from Infinicia
+240000
+250
+3541
+141
+141
+141
+393
+Uber Leggings
+This Leggings was forged from Uber
+265125
+500
+3916
+156
+156
+156
+435
+Rat Trousers
+This Trousers was crafted from Rat
+125
+1
+1
+1
+1
+1
+0
+Chicken Trousers
+This Trousers was crafted from Chicken
+1500
+5
+16
+1
+1
+1
+0
+Cow Trousers
+This Trousers was crafted from Cow
+4125
+10
+51
+2
+2
+2
+0
+Bear Trousers
+This Trousers was crafted from Bear
+8000
+15
+105
+4
+4
+4
+0
+Serpent Scaled Trousers
+This Trousers was crafted from Serpent Scaled
+13125
+20
+177
+7
+7
+7
+0
+Terror Hide Trousers
+This Trousers was crafted from Terror Hide
+19500
+30
+269
+10
+10
+10
+0
+Predator Trousers
+This Trousers was crafted from Predator
+27125
+40
+380
+15
+15
+15
+0
+Dragon Hide Trousers
+This Trousers was crafted from Dragon Hide
+36000
+50
+509
+20
+20
+20
+1
+Dragon Scaled Trousers
+This Trousers was crafted from Dragon Scaled
+46125
+60
+657
+26
+26
+26
+1
+Zorgon Claw Trousers
+This Trousers was crafted from Zorgon Claw
+57500
+70
+825
+33
+33
+33
+1
+Scalberth Claw Trousers
+This Trousers was crafted from Scalberth Claw
+70125
+80
+1011
+40
+40
+40
+2
+Mystic Toothed Trousers
+This Trousers was crafted from Mystic Toothed
+84000
+90
+1216
+48
+48
+48
+2
+Hunter Trousers
+This Trousers was crafted from Hunter
+99125
+100
+1441
+57
+57
+57
+3
+Stalker Trousers
+This Trousers was crafted from Stalker
+115500
+120
+1684
+67
+67
+67
+3
+Overpowered Trousers
+This Trousers was crafted from Overpowered
+133125
+140
+1946
+77
+77
+77
+4
+Ignok Trousers
+This Trousers was crafted from Ignok
+152000
+160
+2227
+89
+89
+89
+4
+Shoo Trousers
+This Trousers was crafted from Shoo
+172125
+180
+2527
+101
+101
+101
+5
+Xoc'MinMua Trousers
+This Trousers was crafted from Xoc'MinMua
+193500
+200
+2846
+113
+113
+113
+6
+Divine Trousers
+This Trousers was crafted from Divine
+216125
+225
+3184
+127
+127
+127
+7
+Infinicia Trousers
+This Trousers was crafted from Infinicia
+240000
+250
+3541
+141
+141
+141
+7
+Uber Trousers
+This Trousers was crafted from Uber
+265125
+500
+3916
+156
+156
+156
+8

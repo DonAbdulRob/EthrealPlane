@@ -1,0 +1,51 @@
+/*************************************
+  Name: Ethreal Plane
+  Copyright: 2010
+  Author: Donald Abdullah-Robinson
+  Date: 25/08/10 18:00
+  Description: An rpg game.
+*************************************/
+
+/*
+Things to add -
+
+Declare objects used gamewide as extern global.
+
+For Fighting --
+Implement Party Fights.
+Implement Spell Casting.
+Implement Fleeing.
+
+For Luck --
+In battle a chance for a lucky event to happen.
+Chance to recieve double exp or gold from a win.
+Second item roll to see if you win an item from battle.
+Chance while exploring to randomly find items/gold.
+Chance to randomly level up.
+Chance an item will increase in quality just from attacking with it in battle.
+
+Implement Items using Polymorphism (do NOT use array implementation)
+-- Have quality, socketing, AND +n system (n being 1-100 or whatever)
+
+Implement skills like Fishing, Mining, etc.
+
+Allow use of spells out of battle!
+
+Town Guilds that give modifiers
+
+Quests
+-- Kill X amount of creature
+-- Deliver Letter to X town
+-- Deliver Item to X town
+-- Kill wild creature at (x,y) -- Implement Boss creatures
+
+Implement tiering system for randomly encountered foes.
+-- Weak, Medium, High, Strong, Elite, Ultimate, Godly
+
+
+Way off goals --
+
+Save System
+Multi-player
+Full 3D
+*/

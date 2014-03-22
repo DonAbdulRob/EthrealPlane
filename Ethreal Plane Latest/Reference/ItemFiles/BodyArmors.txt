@@ -1,0 +1,567 @@
+Copper Platemail
+This Platemail was forged from Copper
+125
+1
+1
+1
+1
+1
+1
+Bronze Platemail
+This Platemail was forged from Bronze
+1500
+5
+16
+1
+1
+1
+1
+Iron Platemail
+This Platemail was forged from Iron
+4125
+10
+51
+2
+2
+2
+5
+Steel Platemail
+This Platemail was forged from Steel
+8000
+15
+105
+4
+4
+4
+11
+Varium Platemail
+This Platemail was forged from Varium
+13125
+20
+177
+7
+7
+7
+19
+Mlificum Platemail
+This Platemail was forged from Mlificum
+19500
+30
+269
+10
+10
+10
+29
+Adamantium Platemail
+This Platemail was forged from Adamantium
+27125
+40
+380
+15
+15
+15
+42
+Dragon Platemail
+This Platemail was forged from Dragon
+36000
+50
+509
+20
+20
+20
+56
+Beryll Platemail
+This Platemail was forged from Beryll
+46125
+60
+657
+26
+26
+26
+73
+Azmith Platemail
+This Platemail was forged from Azmith
+57500
+70
+825
+33
+33
+33
+91
+Sereptonium Platemail
+This Platemail was forged from Sereptonium
+70125
+80
+1011
+40
+40
+40
+112
+Ralifum Platemail
+This Platemail was forged from Ralifum
+84000
+90
+1216
+48
+48
+48
+135
+Magnifite Platemail
+This Platemail was forged from Magnifite
+99125
+100
+1441
+57
+57
+57
+160
+Cyritite Platemail
+This Platemail was forged from Cyritite
+115500
+120
+1684
+67
+67
+67
+187
+Genogma Platemail
+This Platemail was forged from Genogma
+133125
+140
+1946
+77
+77
+77
+216
+Hoga Platemail
+This Platemail was forged from Hoga
+152000
+160
+2227
+89
+89
+89
+247
+Telium Platemail
+This Platemail was forged from Telium
+172125
+180
+2527
+101
+101
+101
+280
+Shervagorite Platemail
+This Platemail was forged from Shervagorite
+193500
+200
+2846
+113
+113
+113
+316
+Divine Platemail
+This Platemail was forged from Divine
+216125
+225
+3184
+127
+127
+127
+353
+Infinicia Platemail
+This Platemail was forged from Infinicia
+240000
+250
+3541
+141
+141
+141
+393
+Uber Platemail
+This Platemail was forged from Uber
+265125
+500
+3916
+156
+156
+156
+435
+Rat Vestment
+This Vestment was crafted from Rat
+125
+1
+1
+1
+1
+1
+1
+Chicken Vestment
+This Vestment was crafted from Chicken
+1500
+5
+24
+1
+1
+1
+1
+Cow Vestment
+This Vestment was crafted from Cow
+4125
+10
+76
+3
+3
+3
+1
+Bear Vestment
+This Vestment was crafted from Bear
+8000
+15
+157
+6
+6
+6
+1
+Serpent Scaled Vestment
+This Vestment was crafted from Serpent Scaled
+13125
+20
+265
+10
+10
+10
+1
+Terror Hide Vestment
+This Vestment was crafted from Terror Hide
+19500
+30
+403
+15
+15
+15
+1
+Predator Vestment
+This Vestment was crafted from Predator
+27125
+40
+570
+22
+22
+22
+1
+Dragon Hide Vestment
+This Vestment was crafted from Dragon Hide
+36000
+50
+763
+30
+30
+30
+1
+Dragon Scaled Vestment
+This Vestment was crafted from Dragon Scaled
+46125
+60
+985
+39
+39
+39
+1
+Zorgon Claw Vestment
+This Vestment was crafted from Zorgon Claw
+57500
+70
+1237
+49
+49
+49
+1
+Scalberth Claw Vestment
+This Vestment was crafted from Scalberth Claw
+70125
+80
+1516
+60
+60
+60
+2
+Mystic Toothed Vestment
+This Vestment was crafted from Mystic Toothed
+84000
+90
+1824
+72
+72
+72
+2
+Hunter Vestment
+This Vestment was crafted from Hunter
+99125
+100
+2161
+85
+85
+85
+3
+Stalker Vestment
+This Vestment was crafted from Stalker
+115500
+120
+2526
+100
+100
+100
+3
+Overpowered Vestment
+This Vestment was crafted from Overpowered
+133125
+140
+2919
+115
+115
+115
+4
+Ignok Vestment
+This Vestment was crafted from Ignok
+152000
+160
+3340
+133
+133
+133
+4
+Shoo Vestment
+This Vestment was crafted from Shoo
+172125
+180
+3790
+151
+151
+151
+5
+Xoc'MinMua Vestment
+This Vestment was crafted from Xoc'MinMua
+193500
+200
+4269
+169
+169
+169
+6
+Divine Vestment
+This Vestment was crafted from Divine
+216125
+225
+4776
+190
+190
+190
+7
+Infinicia Vestment
+This Vestment was crafted from Infinicia
+240000
+250
+5311
+211
+211
+211
+7
+Uber Vestment
+This Vestment was crafted from Uber
+265125
+500
+5874
+234
+234
+234
+8
+Rat Robe
+This Robe was crafted from Rat
+125
+1
+1
+1
+1
+1
+1
+Chicken Robe
+This Robe was crafted from Chicken
+1500
+5
+24
+1
+1
+1
+1
+Cow Robe
+This Robe was crafted from Cow
+4125
+10
+76
+3
+3
+3
+1
+Bear Robe
+This Robe was crafted from Bear
+8000
+15
+157
+6
+6
+6
+1
+Serpent Scaled Robe
+This Robe was crafted from Serpent Scaled
+13125
+20
+265
+10
+10
+10
+1
+Terror Hide Robe
+This Robe was crafted from Terror Hide
+19500
+30
+403
+15
+15
+15
+1
+Predator Robe
+This Robe was crafted from Predator
+27125
+40
+570
+22
+22
+22
+1
+Dragon Hide Robe
+This Robe was crafted from Dragon Hide
+36000
+50
+763
+30
+30
+30
+1
+Dragon Scaled Robe
+This Robe was crafted from Dragon Scaled
+46125
+60
+985
+39
+39
+39
+1
+Zorgon Claw Robe
+This Robe was crafted from Zorgon Claw
+57500
+70
+1237
+49
+49
+49
+1
+Scalberth Claw Robe
+This Robe was crafted from Scalberth Claw
+70125
+80
+1516
+60
+60
+60
+2
+Mystic Toothed Robe
+This Robe was crafted from Mystic Toothed
+84000
+90
+1824
+72
+72
+72
+2
+Hunter Robe
+This Robe was crafted from Hunter
+99125
+100
+2161
+85
+85
+85
+3
+Stalker Robe
+This Robe was crafted from Stalker
+115500
+120
+2526
+100
+100
+100
+3
+Overpowered Robe
+This Robe was crafted from Overpowered
+133125
+140
+2919
+115
+115
+115
+4
+Ignok Robe
+This Robe was crafted from Ignok
+152000
+160
+3340
+133
+133
+133
+4
+Shoo Robe
+This Robe was crafted from Shoo
+172125
+180
+3790
+151
+151
+151
+5
+Xoc'MinMua Robe
+This Robe was crafted from Xoc'MinMua
+193500
+200
+4269
+169
+169
+169
+6
+Divine Robe
+This Robe was crafted from Divine
+216125
+225
+4776
+190
+190
+190
+7
+Infinicia Robe
+This Robe was crafted from Infinicia
+240000
+250
+5311
+211
+211
+211
+7
+Uber Robe
+This Robe was crafted from Uber
+265125
+500
+5874
+234
+234
+234
+8

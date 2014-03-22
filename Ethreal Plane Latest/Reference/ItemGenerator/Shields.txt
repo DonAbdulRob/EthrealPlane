@@ -1,0 +1,210 @@
+Copper Shield
+This Shield was forged from Copper
+125
+1
+1
+1
+1
+1
+1
+0
+Bronze Shield
+This Shield was forged from Bronze
+1500
+5
+6
+1
+6
+1
+2
+1
+Iron Shield
+This Shield was forged from Iron
+4125
+10
+18
+2
+18
+2
+3
+3
+Steel Shield
+This Shield was forged from Steel
+8000
+15
+37
+4
+37
+4
+4
+7
+Varium Shield
+This Shield was forged from Varium
+13125
+20
+64
+7
+64
+7
+5
+12
+Mlificum Shield
+This Shield was forged from Mlificum
+19500
+30
+97
+10
+97
+10
+6
+19
+Adamantium Shield
+This Shield was forged from Adamantium
+27125
+40
+136
+15
+136
+15
+7
+27
+Dragon Shield
+This Shield was forged from Dragon
+36000
+50
+183
+20
+183
+20
+8
+36
+Beryll Shield
+This Shield was forged from Beryll
+46125
+60
+236
+26
+236
+26
+9
+47
+Azmith Shield
+This Shield was forged from Azmith
+57500
+70
+297
+33
+297
+33
+10
+59
+Sereptonium Shield
+This Shield was forged from Sereptonium
+70125
+80
+364
+40
+364
+40
+11
+72
+Ralifum Shield
+This Shield was forged from Ralifum
+84000
+90
+438
+48
+438
+48
+12
+87
+Magnifite Shield
+This Shield was forged from Magnifite
+99125
+100
+518
+57
+518
+57
+13
+103
+Cyritite Shield
+This Shield was forged from Cyritite
+115500
+120
+606
+67
+606
+67
+14
+121
+Genogma Shield
+This Shield was forged from Genogma
+133125
+140
+700
+77
+700
+77
+15
+140
+Hoga Shield
+This Shield was forged from Hoga
+152000
+160
+801
+89
+801
+89
+16
+160
+Telium Shield
+This Shield was forged from Telium
+172125
+180
+909
+101
+909
+101
+17
+181
+Shervagorite Shield
+This Shield was forged from Shervagorite
+193500
+200
+1024
+113
+1024
+113
+18
+204
+Divine Shield
+This Shield was forged from Divine
+216125
+225
+1146
+127
+1146
+127
+19
+229
+Infinicia Shield
+This Shield was forged from Infinicia
+240000
+250
+1274
+141
+1274
+141
+20
+254
+Uber Shield
+This Shield was forged from Uber
+265125
+500
+1410
+156
+1410
+156
+20
+282

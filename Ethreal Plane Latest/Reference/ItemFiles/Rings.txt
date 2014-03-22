@@ -1,0 +1,168 @@
+Copper Ring
+This Ring was forged from Copper
+125
+1
+1
+1
+1
+1
+Bronze Ring
+This Ring was forged from Bronze
+1500
+5
+1
+2
+1
+6
+Iron Ring
+This Ring was forged from Iron
+4125
+10
+2
+8
+2
+18
+Steel Ring
+This Ring was forged from Steel
+8000
+15
+4
+16
+4
+37
+Varium Ring
+This Ring was forged from Varium
+13125
+20
+7
+28
+7
+64
+Mlificum Ring
+This Ring was forged from Mlificum
+19500
+30
+10
+43
+10
+97
+Adamantium Ring
+This Ring was forged from Adamantium
+27125
+40
+15
+60
+15
+136
+Dragon Ring
+This Ring was forged from Dragon
+36000
+50
+20
+81
+20
+183
+Beryll Ring
+This Ring was forged from Beryll
+46125
+60
+26
+105
+26
+236
+Azmith Ring
+This Ring was forged from Azmith
+57500
+70
+33
+132
+33
+297
+Sereptonium Ring
+This Ring was forged from Sereptonium
+70125
+80
+40
+161
+40
+364
+Ralifum Ring
+This Ring was forged from Ralifum
+84000
+90
+48
+194
+48
+438
+Magnifite Ring
+This Ring was forged from Magnifite
+99125
+100
+57
+230
+57
+518
+Cyritite Ring
+This Ring was forged from Cyritite
+115500
+120
+67
+269
+67
+606
+Genogma Ring
+This Ring was forged from Genogma
+133125
+140
+77
+311
+77
+700
+Hoga Ring
+This Ring was forged from Hoga
+152000
+160
+89
+356
+89
+801
+Telium Ring
+This Ring was forged from Telium
+172125
+180
+101
+404
+101
+909
+Shervagorite Ring
+This Ring was forged from Shervagorite
+193500
+200
+113
+455
+113
+1024
+Divine Ring
+This Ring was forged from Divine
+216125
+225
+127
+509
+127
+1146
+Infinicia Ring
+This Ring was forged from Infinicia
+240000
+250
+141
+566
+141
+1274
+Uber Ring
+This Ring was forged from Uber
+265125
+500
+156
+626
+156
+1410

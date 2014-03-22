@@ -1,0 +1,630 @@
+Copper Sword
+This Sword was forged from Copper
+125
+1
+1
+1
+1
+1
+0
+0
+Bronze Sword
+This Sword was forged from Bronze
+1500
+5
+10
+1
+2
+1
+2
+3
+Iron Sword
+This Sword was forged from Iron
+4125
+10
+33
+2
+8
+2
+7
+11
+Steel Sword
+This Sword was forged from Steel
+8000
+15
+67
+4
+16
+4
+14
+22
+Varium Sword
+This Sword was forged from Varium
+13125
+20
+113
+7
+28
+7
+25
+37
+Mlificum Sword
+This Sword was forged from Mlificum
+19500
+30
+172
+10
+43
+10
+38
+57
+Adamantium Sword
+This Sword was forged from Adamantium
+27125
+40
+243
+15
+60
+15
+54
+81
+Dragon Sword
+This Sword was forged from Dragon
+36000
+50
+326
+20
+81
+20
+72
+108
+Beryll Sword
+This Sword was forged from Beryll
+46125
+60
+421
+26
+105
+26
+93
+140
+Azmith Sword
+This Sword was forged from Azmith
+57500
+70
+528
+33
+132
+33
+117
+176
+Sereptonium Sword
+This Sword was forged from Sereptonium
+70125
+80
+647
+40
+161
+40
+143
+215
+Ralifum Sword
+This Sword was forged from Ralifum
+84000
+90
+778
+48
+194
+48
+172
+259
+Magnifite Sword
+This Sword was forged from Magnifite
+99125
+100
+922
+57
+230
+57
+204
+307
+Cyritite Sword
+This Sword was forged from Cyritite
+115500
+120
+1077
+67
+269
+67
+239
+359
+Genogma Sword
+This Sword was forged from Genogma
+133125
+140
+1245
+77
+311
+77
+276
+415
+Hoga Sword
+This Sword was forged from Hoga
+152000
+160
+1425
+89
+356
+89
+316
+475
+Telium Sword
+This Sword was forged from Telium
+172125
+180
+1617
+101
+404
+101
+359
+539
+Shervagorite Sword
+This Sword was forged from Shervagorite
+193500
+200
+1821
+113
+455
+113
+404
+607
+Divine Sword
+This Sword was forged from Divine
+216125
+225
+2037
+127
+509
+127
+452
+679
+Infinicia Sword
+This Sword was forged from Infinicia
+240000
+250
+2266
+141
+566
+141
+503
+755
+Uber Sword
+This Sword was forged from Uber
+265125
+500
+2506
+156
+626
+156
+556
+835
+Copper Staff
+This Staff was forged from Copper
+125
+1
+1
+1
+1
+1
+0
+0
+Bronze Staff
+This Staff was forged from Bronze
+1500
+5
+1
+10
+1
+2
+2
+3
+Iron Staff
+This Staff was forged from Iron
+4125
+10
+2
+33
+2
+8
+7
+11
+Steel Staff
+This Staff was forged from Steel
+8000
+15
+4
+67
+4
+16
+14
+22
+Varium Staff
+This Staff was forged from Varium
+13125
+20
+7
+113
+7
+28
+25
+37
+Mlificum Staff
+This Staff was forged from Mlificum
+19500
+30
+10
+172
+10
+43
+38
+57
+Adamantium Staff
+This Staff was forged from Adamantium
+27125
+40
+15
+243
+15
+60
+54
+81
+Dragon Staff
+This Staff was forged from Dragon
+36000
+50
+20
+326
+20
+81
+72
+108
+Beryll Staff
+This Staff was forged from Beryll
+46125
+60
+26
+421
+26
+105
+93
+140
+Azmith Staff
+This Staff was forged from Azmith
+57500
+70
+33
+528
+33
+132
+117
+176
+Sereptonium Staff
+This Staff was forged from Sereptonium
+70125
+80
+40
+647
+40
+161
+143
+215
+Ralifum Staff
+This Staff was forged from Ralifum
+84000
+90
+48
+778
+48
+194
+172
+259
+Magnifite Staff
+This Staff was forged from Magnifite
+99125
+100
+57
+922
+57
+230
+204
+307
+Cyritite Staff
+This Staff was forged from Cyritite
+115500
+120
+67
+1077
+67
+269
+239
+359
+Genogma Staff
+This Staff was forged from Genogma
+133125
+140
+77
+1245
+77
+311
+276
+415
+Hoga Staff
+This Staff was forged from Hoga
+152000
+160
+89
+1425
+89
+356
+316
+475
+Telium Staff
+This Staff was forged from Telium
+172125
+180
+101
+1617
+101
+404
+359
+539
+Shervagorite Staff
+This Staff was forged from Shervagorite
+193500
+200
+113
+1821
+113
+455
+404
+607
+Divine Staff
+This Staff was forged from Divine
+216125
+225
+127
+2037
+127
+509
+452
+679
+Infinicia Staff
+This Staff was forged from Infinicia
+240000
+250
+141
+2266
+141
+566
+503
+755
+Uber Staff
+This Staff was forged from Uber
+265125
+500
+156
+2506
+156
+626
+556
+835
+Copper Dagger
+This Dagger was forged from Copper
+125
+1
+1
+1
+1
+1
+0
+0
+Bronze Dagger
+This Dagger was forged from Bronze
+1500
+5
+2
+1
+10
+1
+2
+3
+Iron Dagger
+This Dagger was forged from Iron
+4125
+10
+8
+2
+33
+2
+7
+11
+Steel Dagger
+This Dagger was forged from Steel
+8000
+15
+16
+4
+67
+4
+14
+22
+Varium Dagger
+This Dagger was forged from Varium
+13125
+20
+28
+7
+113
+7
+25
+37
+Mlificum Dagger
+This Dagger was forged from Mlificum
+19500
+30
+43
+10
+172
+10
+38
+57
+Adamantium Dagger
+This Dagger was forged from Adamantium
+27125
+40
+60
+15
+243
+15
+54
+81
+Dragon Dagger
+This Dagger was forged from Dragon
+36000
+50
+81
+20
+326
+20
+72
+108
+Beryll Dagger
+This Dagger was forged from Beryll
+46125
+60
+105
+26
+421
+26
+93
+140
+Azmith Dagger
+This Dagger was forged from Azmith
+57500
+70
+132
+33
+528
+33
+117
+176
+Sereptonium Dagger
+This Dagger was forged from Sereptonium
+70125
+80
+161
+40
+647
+40
+143
+215
+Ralifum Dagger
+This Dagger was forged from Ralifum
+84000
+90
+194
+48
+778
+48
+172
+259
+Magnifite Dagger
+This Dagger was forged from Magnifite
+99125
+100
+230
+57
+922
+57
+204
+307
+Cyritite Dagger
+This Dagger was forged from Cyritite
+115500
+120
+269
+67
+1077
+67
+239
+359
+Genogma Dagger
+This Dagger was forged from Genogma
+133125
+140
+311
+77
+1245
+77
+276
+415
+Hoga Dagger
+This Dagger was forged from Hoga
+152000
+160
+356
+89
+1425
+89
+316
+475
+Telium Dagger
+This Dagger was forged from Telium
+172125
+180
+404
+101
+1617
+101
+359
+539
+Shervagorite Dagger
+This Dagger was forged from Shervagorite
+193500
+200
+455
+113
+1821
+113
+404
+607
+Divine Dagger
+This Dagger was forged from Divine
+216125
+225
+509
+127
+2037
+127
+452
+679
+Infinicia Dagger
+This Dagger was forged from Infinicia
+240000
+250
+566
+141
+2266
+141
+503
+755
+Uber Dagger
+This Dagger was forged from Uber
+265125
+500
+626
+156
+2506
+156
+556
+835

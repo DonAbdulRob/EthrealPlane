@@ -1,0 +1,67 @@
+/* SetItemProperty - Name, description, value
+SetEquipmentProperty - level requirement, attributes, magic find
+Set ??? Property - ??? ??? Customized */
+
+Necklaces[1].setItemProperties("Copper Necklace", "This Necklace was forged from Copper", 125);
+Necklaces[1].setEquipmentProperties(1,1,1,1,1);
+
+Necklaces[2].setItemProperties("Bronze Necklace", "This Necklace was forged from Bronze", 1500);
+Necklaces[2].setEquipmentProperties(5,1,2,1,6);
+
+Necklaces[3].setItemProperties("Iron Necklace", "This Necklace was forged from Iron", 4125);
+Necklaces[3].setEquipmentProperties(10,2,8,2,18);
+
+Necklaces[4].setItemProperties("Steel Necklace", "This Necklace was forged from Steel", 8000);
+Necklaces[4].setEquipmentProperties(15,4,16,4,37);
+
+Necklaces[5].setItemProperties("Varium Necklace", "This Necklace was forged from Varium", 13125);
+Necklaces[5].setEquipmentProperties(20,7,28,7,64);
+
+Necklaces[6].setItemProperties("Mlificum Necklace", "This Necklace was forged from Mlificum", 19500);
+Necklaces[6].setEquipmentProperties(30,10,43,10,97);
+
+Necklaces[7].setItemProperties("Adamantium Necklace", "This Necklace was forged from Adamantium", 27125);
+Necklaces[7].setEquipmentProperties(40,15,60,15,136);
+
+Necklaces[8].setItemProperties("Dragon Necklace", "This Necklace was forged from Dragon", 36000);
+Necklaces[8].setEquipmentProperties(50,20,81,20,183);
+
+Necklaces[9].setItemProperties("Beryll Necklace", "This Necklace was forged from Beryll", 46125);
+Necklaces[9].setEquipmentProperties(60,26,105,26,236);
+
+Necklaces[10].setItemProperties("Azmith Necklace", "This Necklace was forged from Azmith", 57500);
+Necklaces[10].setEquipmentProperties(70,33,132,33,297);
+
+Necklaces[11].setItemProperties("Sereptonium Necklace", "This Necklace was forged from Sereptonium", 70125);
+Necklaces[11].setEquipmentProperties(80,40,161,40,364);
+
+Necklaces[12].setItemProperties("Ralifum Necklace", "This Necklace was forged from Ralifum", 84000);
+Necklaces[12].setEquipmentProperties(90,48,194,48,438);
+
+Necklaces[13].setItemProperties("Magnifite Necklace", "This Necklace was forged from Magnifite", 99125);
+Necklaces[13].setEquipmentProperties(100,57,230,57,518);
+
+Necklaces[14].setItemProperties("Cyritite Necklace", "This Necklace was forged from Cyritite", 115500);
+Necklaces[14].setEquipmentProperties(120,67,269,67,606);
+
+Necklaces[15].setItemProperties("Genogma Necklace", "This Necklace was forged from Genogma", 133125);
+Necklaces[15].setEquipmentProperties(140,77,311,77,700);
+
+Necklaces[16].setItemProperties("Hoga Necklace", "This Necklace was forged from Hoga", 152000);
+Necklaces[16].setEquipmentProperties(160,89,356,89,801);
+
+Necklaces[17].setItemProperties("Telium Necklace", "This Necklace was forged from Telium", 172125);
+Necklaces[17].setEquipmentProperties(180,101,404,101,909);
+
+Necklaces[18].setItemProperties("Shervagorite Necklace", "This Necklace was forged from Shervagorite", 193500);
+Necklaces[18].setEquipmentProperties(200,113,455,113,1024);
+
+Necklaces[19].setItemProperties("Divine Necklace", "This Necklace was forged from Divine", 216125);
+Necklaces[19].setEquipmentProperties(225,127,509,127,1146);
+
+Necklaces[20].setItemProperties("Infinicia Necklace", "This Necklace was forged from Infinicia", 240000);
+Necklaces[20].setEquipmentProperties(250,141,566,141,1274);
+
+Necklaces[21].setItemProperties("Uber Necklace", "This Necklace was forged from Uber", 265125);
+Necklaces[21].setEquipmentProperties(500,156,626,156,1410);
+
